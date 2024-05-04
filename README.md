@@ -26,9 +26,7 @@
 
 ## 🖥 &nbsp;Past work
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xAmarnath&repo=gogram&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/xAmarnath/gogram) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xAmarnath&repo=cloudtorrent&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/xAmarnath/cloudtorrent) &nbsp;
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xAmarnath&repo=valeri&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/xAmarnath/valeri) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xAmarnath&repo=flixy&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/xAmarnath/flixy) &nbsp; 
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xAmarnath&repo=gogram&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/xAmarnath/gogram) &nbsp;
 
 ## 🧰 &nbsp;My toolbox
 
