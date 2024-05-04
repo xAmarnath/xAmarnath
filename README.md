@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<div align="center">
+<div align="r">
 
 <h1 align="center">Hi 👋, I'm Amarnath</h1>
 
