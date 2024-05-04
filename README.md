@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <div align="r">
 
 <h1 align="center">Hi 👋, I'm Amarnath</h1>
