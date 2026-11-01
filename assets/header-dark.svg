@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="176" viewBox="0 0 840 176" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Amarnath C</title>
+  <style>@media (max-width: 520px) { .eyebrow, .motif { display: none; } .name { font-size: 80px; } }</style>
+  <desc id="desc">Software, systems, and open source. A minimal charcoal banner with a teal geometric network.</desc>
+  <rect x="0.5" y="0.5" width="839" height="175" rx="14" fill="#0D1117" stroke="#30363D"/>
+  <path d="M32 48V128" stroke="#5EEAD4" stroke-width="3"/>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+    <text class="eyebrow" x="52" y="62" fill="#5EEAD4" font-size="13" font-weight="600" letter-spacing="2">SOFTWARE / SYSTEMS / OPEN SOURCE</text>
+    <text class="name" x="49" y="123" fill="#F0F6FC" font-size="56" font-weight="650" letter-spacing="-2">Amarnath C</text>
+  </g>
+  <g class="motif">
+  <g stroke="#30363D" stroke-width="1.5">
+    <path d="M588 88H628M660 88H700M732 88H772M644 72V40H716V72M644 104V136H716V104"/>
+    <rect x="556" y="72" width="32" height="32" rx="8" fill="#161B22"/>
+    <rect x="628" y="72" width="32" height="32" rx="8" fill="#161B22"/>
+    <rect x="700" y="72" width="32" height="32" rx="8" fill="#161B22"/>
+    <rect x="772" y="72" width="32" height="32" rx="8" fill="#161B22"/>
+  </g>
+  <rect x="708" y="80" width="16" height="16" rx="4" fill="#5EEAD4"/>
+  <circle cx="572" cy="88" r="3" fill="#8B949E"/>
+  <circle cx="644" cy="88" r="3" fill="#8B949E"/>
+  <circle cx="788" cy="88" r="3" fill="#8B949E"/>
+  </g>
+</svg>
