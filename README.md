@@ -2,16 +2,16 @@
 
 <p align="center">
   <b>Full-stack &amp; native Android developer from Kerala, India.</b><br>
-  Go libraries, Telegram tools, and apps for the web &amp; Android.
+  Go, Python, Rust, AI tools, reverse engineering, Android apps, websites, and more.
 </p>
 
 I like understanding how things work, then building something useful with them. I work across front-end and back-end development, with a soft spot for protocols, APIs, and open source.
 
 <p align="center">
-  <a href="https://t.me/roseloverx"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" alt="Telegram" height="28"></a>
-  <a href="https://www.linkedin.com/in/amarnathcdj/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" height="28"></a>
-  <a href="https://x.com/ama_xnath"><img src="https://img.shields.io/badge/X-181717?style=for-the-badge&amp;logo=x&amp;logoColor=white" alt="X" height="28"></a>
-  <a href="https://dev.to/amarnathcjd"><img src="https://img.shields.io/badge/Dev.to-181717?style=for-the-badge&amp;logo=devdotto&amp;logoColor=white" alt="Dev.to" height="28"></a>
+  <a href="https://t.me/roseloverx"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&amp;logo=telegram&amp;logoColor=white" alt="Telegram" height="28"></a>
+  <a href="https://www.linkedin.com/in/amarnathcdj/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat" alt="LinkedIn" height="28"></a>
+  <a href="https://x.com/ama_xnath"><img src="https://img.shields.io/badge/X-181717?style=flat&amp;logo=x&amp;logoColor=white" alt="X" height="28"></a>
+  <a href="https://dev.to/amarnathcjd"><img src="https://img.shields.io/badge/Dev.to-181717?style=flat&amp;logo=devdotto&amp;logoColor=white" alt="Dev.to" height="28"></a>
 </p>
 
 ## Top projects
@@ -30,28 +30,50 @@ I like understanding how things work, then building something useful with them. 
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&amp;logo=go&amp;logoColor=white" alt="Go" height="28">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python" height="28">
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&amp;logo=kotlin&amp;logoColor=white" alt="Kotlin" height="28">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" alt="JavaScript" height="28">
-  <img src="https://img.shields.io/badge/Rust-A64B2A?style=for-the-badge&amp;logo=rust&amp;logoColor=white" alt="Rust" height="28">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&amp;logo=go&amp;logoColor=white" alt="Go" height="28">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&amp;logo=python&amp;logoColor=white" alt="Python" height="28">
+  <img src="https://img.shields.io/badge/Rust-A64B2A?style=flat&amp;logo=rust&amp;logoColor=white" alt="Rust" height="28">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&amp;logo=c&amp;logoColor=black" alt="C" height="28">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&amp;logo=cplusplus&amp;logoColor=white" alt="C++" height="28">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" alt="React" height="28">
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&amp;logo=vuedotjs&amp;logoColor=4FC08D" alt="Vue.js" height="28">
-  <img src="https://img.shields.io/badge/Node.js-417E38?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white" alt="Node.js" height="28">
-  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&amp;logo=jetpackcompose&amp;logoColor=white" alt="Jetpack Compose" height="28">
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-0F172A?style=for-the-badge&amp;logo=tailwindcss&amp;logoColor=38BDF8" alt="Tailwind CSS" height="28">
+  <img src="https://img.shields.io/badge/Java-E76F00?style=flat" alt="Java" height="28">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&amp;logo=kotlin&amp;logoColor=white" alt="Kotlin" height="28">
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&amp;logo=dart&amp;logoColor=white" alt="Dart" height="28">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&amp;logo=javascript&amp;logoColor=black" alt="JavaScript" height="28">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" height="28">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/MongoDB-116149?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white" alt="MongoDB" height="28">
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&amp;logo=redis&amp;logoColor=white" alt="Redis" height="28">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white" alt="Docker" height="28">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=black" alt="Linux" height="28">
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&amp;logo=nginx&amp;logoColor=white" alt="Nginx" height="28">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git" height="28">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&amp;logo=react&amp;logoColor=61DAFB" alt="React" height="28">
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat&amp;logo=vuedotjs&amp;logoColor=4FC08D" alt="Vue.js" height="28">
+  <img src="https://img.shields.io/badge/Node.js-417E38?style=flat&amp;logo=nodedotjs&amp;logoColor=white" alt="Node.js" height="28">
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-0F172A?style=flat&amp;logo=tailwindcss&amp;logoColor=38BDF8" alt="Tailwind CSS" height="28">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&amp;logo=android&amp;logoColor=black" alt="Android" height="28">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&amp;logo=flutter&amp;logoColor=white" alt="Flutter" height="28">
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat&amp;logo=jetpackcompose&amp;logoColor=white" alt="Jetpack Compose" height="28">
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&amp;logo=androidstudio&amp;logoColor=black" alt="Android Studio" height="28">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&amp;logo=git&amp;logoColor=white" alt="Git" height="28">
+  <img src="https://img.shields.io/badge/Ghidra-B33132?style=flat" alt="Ghidra" height="28">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&amp;logo=docker&amp;logoColor=white" alt="Docker" height="28">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&amp;logo=linux&amp;logoColor=black" alt="Linux" height="28">
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat&amp;logo=nginx&amp;logoColor=white" alt="Nginx" height="28">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MongoDB-116149?style=flat&amp;logo=mongodb&amp;logoColor=white" alt="MongoDB" height="28">
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&amp;logo=redis&amp;logoColor=white" alt="Redis" height="28">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat" alt="AWS" height="28">
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat" alt="Azure" height="28">
+  <img src="https://img.shields.io/badge/Heroku-430098?style=flat" alt="Heroku" height="28">
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&amp;logo=githubactions&amp;logoColor=white" alt="GitHub Actions" height="28">
 </p>
 
 ## Beyond code
@@ -68,5 +90,6 @@ Slightly obsessed with **home automation and homelabs**. I enjoy tinkering with 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=xAmarnath&amp;style=flat-square&amp;color=457b9d&amp;label=Profile+views" alt="Profile view counter" height="20">
+  <b>Profile views</b><br>
+  <a href="https://github.com/journey-ad/Moe-Counter"><img src="https://count.getloli.com/@xAmarnath.github?theme=miku&amp;padding=7&amp;scale=1&amp;align=center&amp;pixelated=0&amp;darkmode=0" alt="Profile views counted by Moe-Counter, with Miku characters" width="420"></a>
 </p>
